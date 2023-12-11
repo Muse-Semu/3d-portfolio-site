@@ -245,7 +245,7 @@ const projects = [
       },
     ],
     image: food,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Muse-Semu/django-react-final_project",
   },
   {
     name: "Student Record Management",
@@ -267,7 +267,8 @@ const projects = [
       },
     ],
     image: st2,
-    source_code_link: "https://github.com/",
+    source_code_link:
+      "https://github.com/Muse-Semu/javafx_student_record_system/tree/javafx/",
   },
 ];
 
